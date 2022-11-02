@@ -1,0 +1,58 @@
+Nav{
+  display: flex;
+  justify-content: space-around;
+  height: 10vh;
+  align-items: center;
+  background-color: #c0c0c0;
+  color:#fffafa;
+  text-align: center;
+  
+}
+.navLinks{
+
+  width: 30%;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  align-items: center;
+  font-size:20px;
+  margin-top: 20px;
+  
+}
+.navLinks a{
+  text-decoration: none;
+}
+
+.Login{
+  align-items: center;
+  text-align: center; 
+margin-top:10%;
+}
+
+.form-signin
+{
+  padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color:#F5F5F5;
+    border: 1px solid rgba(0,0,0,0.1);
+}
+body{
+  background-color: #3A6EA5;
+  align-content: center;
+  text-align: center;
+}
+
+.Dashboard{
+align-content: center;
+text-align: center;
+margin-top: 5%;
+
+}
+.Aboutus{
+  align-content: center;
+  text-align: center;
+  margin-top: 5%;
+  
+  }
